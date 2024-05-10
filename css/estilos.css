@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0%;
+    
+}
+
+.contenido {
+    width: 80%;
+    border-collapse: collapse;
+    
+}
+
+.contenido th,
+.contenido td {
+    border: 1px solid #000000;
+    padding: 8px;
+    
+}
+
+.contenido th {
+    background-color: #ff0000;
+}
+
+.contenido td {
+    text-align: center;
+    background-color: aqua;
+}
+
